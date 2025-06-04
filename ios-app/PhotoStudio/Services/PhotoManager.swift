@@ -1,0 +1,1 @@
+// PhotoManager.swift içeriği

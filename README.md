@@ -1,2 +1,2 @@
-# smart-photo-studio
-AI/ML integration
+# Smart Photo Studio
+Açıklama dosyası
